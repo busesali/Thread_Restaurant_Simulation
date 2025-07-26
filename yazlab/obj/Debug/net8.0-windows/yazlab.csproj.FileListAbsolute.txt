@@ -16,3 +16,4 @@ C:\Users\buse\source\repos\yazlab\yazlab\obj\Debug\net8.0-windows\yazlab.pdb
 C:\Users\buse\source\repos\yazlab\yazlab\obj\Debug\net8.0-windows\yazlab.genruntimeconfig.cache
 C:\Users\buse\source\repos\yazlab\yazlab\obj\Debug\net8.0-windows\ref\yazlab.dll
 C:\Users\buse\source\repos\yazlab\yazlab\obj\Debug\net8.0-windows\yazlab.Form2.resources
+C:\Users\buse\source\repos\yazlab\yazlab\obj\Debug\net8.0-windows\yazlab.sourcelink.json
